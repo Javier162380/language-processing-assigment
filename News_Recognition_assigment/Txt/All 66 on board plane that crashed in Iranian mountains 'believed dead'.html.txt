@@ -1,0 +1,201 @@
+All 66 passengers and crew on an Iranian plane that crashed in a mountainous area of central Iran on Sunday are believed to be dead, state television quoted the airline's spokesman as saying.
+"Aseman Airlines public relations head said that all on board are unfortunately dead," the television reporter said, without elaborating on how he obtained the information.
+The plane crashed in central Iran during a flight from Tehran to the city of Yasuj in the southwest of the country, Iranian media reported. 
+ 
+
+      /* dynamic basic css */
+.CR_39.ob-widget .ob-widget-items-container {margin:0;padding:0;}
+.CR_39.ob-widget .ob-widget-items-container .ob-clearfix {display:block;width:100%;float:none;clear:both;height:0px;line-height:0px;font-size:0px;}
+.CR_39.ob-widget .ob-widget-items-container.ob-multi-row {padding-top: 2%;}
+.CR_39.ob-widget .ob-dynamic-rec-container {position:relative;margin:0;padding;0;}
+.CR_39.ob-widget .ob-dynamic-rec-link,
+.CR_39.ob-widget .ob-dynamic-rec-link:hover {text-decoration:none;}
+.CR_39.ob-widget .ob-rec-image-container .ob-video-icon-container {position:absolute;left:0;height:30%;width:100%;text-align:center;top:35%;}
+.CR_39.ob-widget .ob-rec-image-container .ob-video-icon {display:inline-block;height:100%;float:none;opacity:0.7;transition: opacity 500ms;}
+.CR_39.ob-widget .ob-rec-image-container .ob-video-icon:hover {opacity:1;}
+.CR_39.ob-widget .ob_what{direction:ltr;clear:both;padding:5px 10px 0px;}
+.CR_39.ob-widget .ob_what a{color:#999;font-size:11px;font-family:arial;text-decoration: none;}
+.CR_39.ob-widget .ob_what.ob-hover:hover a{text-decoration: underline;}
+.CR_39.ob-widget .ob_amelia,
+.CR_39.ob-widget .ob_logo,
+.CR_39.ob-widget .ob_feed_logo,
+.CR_39.ob-widget .ob_text_logo{vertical-align:baseline !important;display:inline-block;vertical-align:text-bottom;padding:0px 5px;box-sizing:content-box;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;}
+.CR_39.ob-widget .ob_amelia{background:url('http://widgets.outbrain.com/images/widgetIcons/ob_logo_16x16.png') no-repeat center top;width:16px;height:16px;margin-bottom:-2px;}
+.CR_39.ob-widget .ob_logo{background:url('http://widgets.outbrain.com/images/widgetIcons/ob_logo_67x12.png') no-repeat center top;width:67px;height:12px;}
+.CR_39.ob-widget .ob_text_logo{background:url('http://widgets.outbrain.com/images/widgetIcons/ob_text_logo_67x22.png') no-repeat center top;width:67px;height:22px;}
+.CR_39.ob-widget .ob_feed_logo{background:url('http://widgets.outbrain.com/images/widgetIcons/ob_feed_logo.png') no-repeat center top;width:86px;height:23px;}
+@media only screen and (-webkit-min-device-pixel-ratio: 2),(min-resolution: 192dpi) {
+.CR_39.ob-widget .ob_amelia{background:url('http://widgets.outbrain.com/images/widgetIcons/ob_logo_16x16@2x.png') no-repeat center top;width:16px;height:16px;margin-bottom:-2px; background-size:16px 32px;}
+.CR_39.ob-widget .ob_logo{background:url('http://widgets.outbrain.com/images/widgetIcons/ob_logo_67x12@2x.png') no-repeat center top;width:67px;height:12px; background-size:67px 24px;}
+.CR_39.ob-widget .ob_text_logo{background:url('http://widgets.outbrain.com/images/widgetIcons/ob_text_logo_67x22@2x.png') no-repeat center top;width:67px;height:20px; background-size:67px 40px;}
+.CR_39.ob-widget .ob_feed_logo{background:url('http://widgets.outbrain.com/images/widgetIcons/ob_feed_logo@2x.png') no-repeat center top;width:86px;height:23px;background-size: 86px 23px;}
+}
+.CR_39.ob-widget:hover .ob_amelia,
+.CR_39.ob-widget:hover .ob_logo,
+.CR_39.ob-widget:hover .ob_feed_logo,
+.CR_39.ob-widget:hover .ob_text_logo{background-position:center bottom;}
+  .CR_39.ob-widget {position:relative;}
+  .CR_39.ob-widget .ob_what{position:absolute;top:5px;right:0px;}
+  .CR_39.ob-widget .ob_what{text-align:right;}
+.CR_39.ob-widget .ob-rec-image-container .ob-rec-image {display:block;}
+      /* dynamic one-column css */
+.CR_39.ob-widget .ob-rec-image-container {position:relative;}
+.CR_39.ob-widget .ob-rec-image-container .ob-image-ratio {height:0px;line-height:0px;padding-top:66.66666666666666%;}
+.CR_39.ob-widget .ob-rec-image-container img.ob-rec-image {width:100%;position:absolute;top:0;bottom:0;left:0;right:0;opacity:0;transition:all 750ms;}
+.CR_39.ob-widget .ob-rec-image-container img.ob-show {opacity:1;}
+.CR_39.ob-widget .ob-rec-image-container .ob-rec-label {position:absolute;bottom:0px;left:0px;padding:0px 3px;background-color:#666;color:white;font-size:10px;line-height:15px;}
+.CR_39.ob-one-column-layout .ob-dynamic-rec-container {display:block;position:relative;}
+
+.CR_39.ob-one-column-layout .ob-widget-header {}
+.CR_39.ob-one-column-layout .ob-unit {display:block;}
+.CR_39.ob-one-column-layout .ob-unit.ob-rec-text {max-height:68.0px;overflow:hidden;font-weight:bold;}
+.CR_39.ob-one-column-layout .ob-unit.ob-rec-source {}
+.CR_39.ob-one-column-layout .ob-unit.ob-rec-date {font-weight:bold;}
+.CR_39.ob-one-column-layout .ob-unit.ob-rec-source,
+.CR_39.ob-one-column-layout .ob-unit.ob-rec-date {display:inline;}
+.CR_39.ob-one-column-layout .ob-rec-brandName,
+.CR_39.ob-one-column-layout .ob-rec-brandLogo-container,
+.CR_39.ob-one-column-layout .ob-unit.ob-rec-brandLogoAndName,
+.CR_39.ob-one-column-layout .ob-rec-brandLogo {display:inline-block;}
+.CR_39.ob-one-column-layout .ob-rec-brandLogo {width:20px;height:20px;}
+
+
+  .CR_39.ob-one-column-layout .ob-unit.ob-rec-image-container {float:left;}
+  .CR_39.ob-one-column-layout .ob-unit.ob-rec-text {margin-left:130px;text-align:left;}
+  .CR_39.ob-one-column-layout .ob-unit.ob-rec-source,
+  .CR_39.ob-one-column-layout .ob-unit.ob-rec-date {float:left;margin-left:5px;}
+  .CR_39.ob-one-column-layout .ob-unit.ob-rec-source {margin-left:10px;}
+  .CR_39.ob-one-column-layout .ob-unit.ob-rec-author {float:left;margin-left:5px;}
+  .CR_39.ob-one-column-layout .ob-unit.ob-rec-brandName {padding-left:10px;}
+  .CR_39.ob-one-column-layout .ob-unit.ob-rec-brandLogoAndName {padding-left:10px;}
+  .CR_39.ob-one-column-layout .ob-unit.ob-rec-brandLogo-container {padding-left:10px;}
+  .CR_39.ob-one-column-layout .ob-unit.ob-rec-brandLogo-container + .ob-rec-brandName {padding-left:0px;}
+  .CR_39.ob-one-column-layout .ob-unit.ob-rec-brandName + .ob-rec-brandLogo-container {padding-left:0px;}
+      /* dynamic customized css */
+      
+.CR_39.ob-one-column-layout {width:autopx;}
+.CR_39.ob-one-column-layout .ob-widget-header {font-family:inherit;font-size:12px;color:black;padding-bottom:0px;padding-top:0px;}
+.CR_39.ob-one-column-layout .ob-dynamic-rec-container {min-height:80px;}
+.CR_39.ob-one-column-layout .ob-dynamic-rec-container ~ .ob-dynamic-rec-container {margin-top:10px;}
+.CR_39.ob-one-column-layout .ob-rec-image-container {width:120px;}
+.CR_39.ob-one-column-layout .ob-rec-text {font-family:inherit;color:black;padding:0px 0 0px;line-height:1.25;font-size:18px;}
+.CR_39.ob-one-column-layout .ob-rec-text:hover {color:black;}
+.CR_39.ob-one-column-layout .ob-rec-source {font-family:inherit;color:#888;padding:5px 0 0px;font-size:11px;}
+.CR_39.ob-one-column-layout .ob-rec-date {font-family:inherit;color:black;padding:0px 0 0px;font-size:11px;}
+.CR_39.ob-one-column-layout .ob-rec-author {font-family:inherit;color:black;padding:0px 0 0px;font-size:11px;}
+.CR_39.ob-one-column-layout .ob-rec-description {font-family:inherit;color:black;padding:0px 0 0px;font-size:11px;}
+.CR_39.ob-one-column-layout .ob-rec-brandName {font-family:inherit;padding:0px 0 0px;line-height:1.25;}
+.CR_39.ob-one-column-layout .ob-rec-brandLogo {width:20px;height:20px;}
+    
+
+      .CR_39.ob-one-column-layout {
+    width: auto;
+    min-width: 0px;
+    background-color: #f8f8f8;
+    margin-top: 20px;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-top: 1px solid #E1E1E1;
+}
+.CR_39.ob-one-column-layout .ob-widget-header {
+    font-family: "Telesans Text Regular", Arial, sans-serif;
+    font-size: 12px;
+    color: #6D6D6D;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    margin-bottom: 10px;
+    line-height: 15px;
+}
+.CR_39.ob-one-column-layout .ob-rec-text {
+    font-family: inherit;
+    color: black;
+    padding: 0px;
+    text-align: left;
+    line-height: 1.25;
+    font-size: 18px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.CR_39.ob-one-column-layout .ob-rec-source {
+    font-family: "Telesans Text Regular", Arial, sans-serif;
+    color: #6D6D6D;
+    padding: 0px 0 0px;
+    text-align: left;
+    font-size: 12px;
+    max-height: 20px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    display: block !important;
+}
+.CR_39.ob-one-column-layout .ob-dynamic-rec-link:hover .ob-rec-text {
+    color: #d10a11;
+}
+.CR_39.ob-one-column-layout .ob-widget-items-container.ob-multi-row {
+    padding-top: 20px;
+}
+.CR_39 li:before {
+    display: none;
+}
+.CR_39.ob-widget .ob_what a {
+    color: #999 !important;
+    font-size: 11px;
+    font-family: arial;
+    border: 0px;
+    text-decoration: none !important;
+}
+.CR_39.ob-one-column-layout .ob-dynamic-rec-container ~ .ob-dynamic-rec-container {
+    margin-top: 10px;
+    padding-top: 10px;
+    border-top: 1px solid #E1E1E1;
+}
+.CR_39.ob-one-column-layout .ob-unit.ob-rec-text {
+    max-height: 45px;
+    overflow: hidden;
+    font-weight: normal;
+    font-family: "Austin News Deck Semibold",Georgia,Times,serif;
+}
+.CR_39.ob-widget .ob_what {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+    
+
+Paid content
+
+
+
+
+
+
+British Expat in Madrid? Discover How Brexit Could Affect You and Your Pension
+Abbey Wealth
+
+
+
+
+
+
+¿Eres propietario? Descubre cómo obtener ingresos adicionales con booking.com
+Booking.com
+
+ 
+
+
+Recommended by
+
+
+ 
+ OBR.extern.researchWidget();  
+The ATR-made plane operated by Iranian carrier Aseman Airlines crashed in a mountainous area near the town of Semirom, news agency ISNA quoted emergency services spokesman Mojtaba Khaledi as saying.
+Semirom's governor said rescue helicopters were unable to land in the crash site because of heavy fog and emergency workers were trying to reach the area by land, the semi-official Mehr news agency reported.
+State-run PressTV said 66 people were on board the plane, which disappeared from radar screens 50 minutes after taking off from Tehran's Mehrabad airport.
+Mehrabad is located in western Tehran and mainly functions as a domestic airport, although it also serves some international routes.
+Iran has suffered several plane crashes in the past few decades. Tehran says US sanctions have long prevented it from buying new aircraft or spare parts from the West.
+© Telegraph Media Group Limited 2018
+We rely on advertising to help fund our award-winning journalism.
+We urge you to turn off your ad blocker for The Telegraph website so that you can continue to access our quality content in the future.
+Thank you for your support.
+Need help?
+Click here for instructions 
