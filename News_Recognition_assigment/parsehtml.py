@@ -2,14 +2,11 @@ from bs4 import BeautifulSoup
 import os
 import codecs
 from textblob import TextBlob
-import nltk
-from nltk.corpus import stopwords
-import asyncio
+
 
 
 def parse_html_to_english(path_html,path_txt):
     path=path_html
-    results=[]
     for i in os.listdir(path):
        if i.endswith('.html'):
            with codecs.open("{0}{1}".format(path,i),"r",encoding='utf-8', errors='ignore') as raw_html:
